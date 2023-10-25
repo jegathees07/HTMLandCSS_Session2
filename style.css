@@ -1,0 +1,42 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color:antiquewhite b;
+}
+
+h1{
+    color: red;
+    background-color: black;
+}
+ p{
+   font-size: 20px;
+   font-weight: 700;
+ }
+
+ img{
+    height: auto;
+    width: auto;
+ }
+
+ /*To call the class,you will start with"."*/
+ .abc{
+    font-size: 15px;
+    color: aqua ;
+    background-color: brown;
+ }
+
+ /*To call an ID,you will use"#"*/
+ #xyz{
+  color:greenyellow;
+  background-color: beige;
+ }
+
+ .sjn{
+  display: block;
+ }
+
+ button{
+  display: block;
+  padding: 10px;
+  margin: auto;
+ }
+ 
